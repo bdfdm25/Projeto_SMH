@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Video Interativo</string>
+    <string name="tagID_textfield">tag</string>
+    <string name="tag_label">Digite sua Tag:</string>
+    <string name="save_button">SAVE</string>
+    <string name="settings_button">SETTINGS</string>
+    <string name="tittle_label">PLAYER INTERATIVO</string>
+    <string name="change_address">CONFIGURATION</string>
+</resources>
