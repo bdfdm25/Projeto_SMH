@@ -12,7 +12,14 @@ Files:
 - ClientVideoInterativo: AndroidStudio Project that has the codes for the client android app.
 
 
+
+
+
 |||||||||===================================|||||||||===========================================|||||||||
+
+
+
+
 
 Projeto Final da disciplina: Sistemas Multimídia e Hipermídia
 
